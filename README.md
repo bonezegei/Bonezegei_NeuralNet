@@ -1,2 +1,2 @@
 # Bonezegei_NeuralNet
-Simply Neural Network for microcontroller
+Simple Neural Network for microcontroller
